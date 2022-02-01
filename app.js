@@ -10,7 +10,7 @@ const data =[ {
   name: 'Jen Smith',
   age: 26,
   gender: 'female',
-  lokkingfor: 'male',
+  lookingfor: 'male',
   location: 'Bangladesh',
   image: 'https://randomuser.me/api/portraits/women/82.jpg'
 },
@@ -18,7 +18,7 @@ const data =[ {
   name: 'William Johnson',
   age: 20,
   gender: 'male',
-  lokkingfor: 'female',
+  lookingfor: 'female',
   location: 'Bangladesh',
   image: 'https://randomuser.me/api/portraits/men/83.jpg'
 }
